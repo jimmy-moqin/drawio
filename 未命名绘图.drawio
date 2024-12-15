@@ -1,9 +1,101 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36" version="25.0.3">
   <diagram name="第 1 页" id="z27eN7BssrzgR_u3csI0">
-    <mxGraphModel>
+    <mxGraphModel dx="1071" dy="548" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="uBg9M2F5jSA1pbCPGJbL-1" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=14;" edge="1" parent="1" source="uBg9M2F5jSA1pbCPGJbL-2" target="uBg9M2F5jSA1pbCPGJbL-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="uBg9M2F5jSA1pbCPGJbL-2" value="GWAS Catalog" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="100" y="40" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="uBg9M2F5jSA1pbCPGJbL-3" value="Date &amp;gt; 2023.01.01" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;size=10;fontSize=14;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry y="90" width="160" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="uBg9M2F5jSA1pbCPGJbL-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=14;" edge="1" parent="1" source="uBg9M2F5jSA1pbCPGJbL-5" target="uBg9M2F5jSA1pbCPGJbL-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="uBg9M2F5jSA1pbCPGJbL-5" value="Studies&lt;br&gt;(n = 96)" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="100" y="170" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="uBg9M2F5jSA1pbCPGJbL-6" value="Traits&amp;nbsp;Cardiovascular" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;size=10;fontSize=14;flipH=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="160" y="130" width="160" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="uBg9M2F5jSA1pbCPGJbL-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=14;" edge="1" parent="1" source="uBg9M2F5jSA1pbCPGJbL-8" target="uBg9M2F5jSA1pbCPGJbL-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="uBg9M2F5jSA1pbCPGJbL-8" value="Studies&lt;br&gt;(n = 34)" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="100" y="280" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="uBg9M2F5jSA1pbCPGJbL-9" value="with harmonised" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;size=10;fontSize=14;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry y="230" width="160" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="uBg9M2F5jSA1pbCPGJbL-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=14;" edge="1" parent="1" source="uBg9M2F5jSA1pbCPGJbL-13" target="uBg9M2F5jSA1pbCPGJbL-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="uBg9M2F5jSA1pbCPGJbL-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=14;" edge="1" parent="1" source="uBg9M2F5jSA1pbCPGJbL-13" target="uBg9M2F5jSA1pbCPGJbL-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="uBg9M2F5jSA1pbCPGJbL-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=14;" edge="1" parent="1" source="uBg9M2F5jSA1pbCPGJbL-13" target="uBg9M2F5jSA1pbCPGJbL-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="uBg9M2F5jSA1pbCPGJbL-13" value="Studies with sig. SNPs&lt;br&gt;(n = 24)" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="80" y="390" width="160" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="uBg9M2F5jSA1pbCPGJbL-14" value="smunger" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;size=10;fontSize=14;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry y="340" width="160" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="uBg9M2F5jSA1pbCPGJbL-15" value="NO MIX&amp;nbsp;&lt;br&gt;(n = 19)" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry y="480" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="uBg9M2F5jSA1pbCPGJbL-16" value="MIX&lt;br&gt;(n = 5)" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="200" y="480" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="uBg9M2F5jSA1pbCPGJbL-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=14;" edge="1" parent="1" source="uBg9M2F5jSA1pbCPGJbL-18" target="uBg9M2F5jSA1pbCPGJbL-21">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="uBg9M2F5jSA1pbCPGJbL-18" value="MVP" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="607" y="40" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="uBg9M2F5jSA1pbCPGJbL-19" value="Date &amp;gt; 2023.01.01" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;size=10;fontSize=14;fillColor=#fff2cc;strokeColor=#d6b656;flipH=1;" vertex="1" parent="1">
+          <mxGeometry x="667" y="90" width="160" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="uBg9M2F5jSA1pbCPGJbL-21" value="Studies&lt;br&gt;(n = 106)" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="607" y="170" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="uBg9M2F5jSA1pbCPGJbL-22" value="Traits&amp;nbsp;Cardiovascular" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;size=10;fontSize=14;flipH=0;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="507" y="130" width="160" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="uBg9M2F5jSA1pbCPGJbL-23" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=14;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="uBg9M2F5jSA1pbCPGJbL-21" target="uBg9M2F5jSA1pbCPGJbL-29">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="667" y="320" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="uBg9M2F5jSA1pbCPGJbL-26" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=14;" edge="1" parent="1" source="uBg9M2F5jSA1pbCPGJbL-29" target="uBg9M2F5jSA1pbCPGJbL-31">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="uBg9M2F5jSA1pbCPGJbL-27" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=14;" edge="1" parent="1" source="uBg9M2F5jSA1pbCPGJbL-29" target="uBg9M2F5jSA1pbCPGJbL-31">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="uBg9M2F5jSA1pbCPGJbL-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=14;" edge="1" parent="1" source="uBg9M2F5jSA1pbCPGJbL-29" target="uBg9M2F5jSA1pbCPGJbL-32">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="uBg9M2F5jSA1pbCPGJbL-29" value="Studies with sig. SNPs&lt;br&gt;(n = 106)" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="587" y="280" width="160" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="uBg9M2F5jSA1pbCPGJbL-30" value="smunger" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;size=10;fontSize=14;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="507" y="230" width="160" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="uBg9M2F5jSA1pbCPGJbL-31" value="NO MIX&amp;nbsp;&lt;br&gt;(n = 79)" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="507" y="370" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="uBg9M2F5jSA1pbCPGJbL-32" value="MIX&lt;br&gt;(n = 27)" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="707" y="370" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="uBg9M2F5jSA1pbCPGJbL-33" value="&lt;span style=&quot;font-size: 14px; background-color: initial;&quot;&gt;D002318&lt;/span&gt;&lt;br&gt;&lt;span style=&quot;font-size: 14px; background-color: initial;&quot;&gt;D003327&lt;/span&gt;&lt;br&gt;&lt;span style=&quot;font-size: 14px; background-color: initial;&quot;&gt;D050197&lt;/span&gt;&lt;br&gt;&lt;span style=&quot;font-size: 14px; background-color: initial;&quot;&gt;D006973&lt;/span&gt;&lt;br&gt;&lt;span style=&quot;font-size: 14px; background-color: initial;&quot;&gt;D020521&lt;/span&gt;&lt;br&gt;&lt;span style=&quot;font-size: 14px; background-color: initial;&quot;&gt;D006333&lt;/span&gt;&lt;br&gt;&lt;span style=&quot;font-size: 14px; background-color: initial;&quot;&gt;D001281&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="417" y="80" width="90" height="140" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
